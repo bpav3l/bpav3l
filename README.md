@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @bpav3l
-- 👀 I’m interested in technology and programming
-- 🌱 I’m currently learning python
-- 📫 How to reach me ...good luck with doing that
+- I’m @bpav3l
+- Not much to say about me, just a bit of Python and sometimes maybe C..  
 
 <!---
 bpav3l/bpav3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
